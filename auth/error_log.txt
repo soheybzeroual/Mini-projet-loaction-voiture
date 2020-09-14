@@ -1,0 +1,4 @@
+[2020-09-12 17:19:08] Admin login failure from IP :::1 - G:\Programs\xamp\htdocs\auth\login.php (32) 
+[2020-09-12 20:21:35] Admin login failure from IP :::1 - G:\Programs\xamp\htdocs\auth\login.php (32) 
+[2020-09-12 21:32:46] Admin login failure from IP :::1 - G:\Programs\xamp\htdocs\auth\login.php (32) 
+[2020-09-13 02:01:09] Admin login failure from IP :::1 - G:\Programs\xamp\htdocs\auth\login.php (32) 
